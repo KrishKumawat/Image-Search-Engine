@@ -5,4 +5,4 @@
 
 # Live Preview:
 
-To view the live Site: *[Click Here](https://www.github.com/KrishKumawat)*
+To view the live Site: *[Click Here](https://krishkumawat.github.io/Image-Search-Engine/)*
